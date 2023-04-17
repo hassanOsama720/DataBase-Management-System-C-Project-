@@ -1,0 +1,2 @@
+id,int,name,string,salary,int
+1,ahmed,5000
