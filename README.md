@@ -19,4 +19,4 @@ When start the project You will be asked to endter databse name then you can wri
 
 ## Demo
 
-- [Video link]("https://drive.google.com/file/d/1PUM4-YSB7NHMHP_kO9i3DLpIAGlcWto6/view?usp=sharing)
+- [Video link](https://drive.google.com/file/d/1PUM4-YSB7NHMHP_kO9i3DLpIAGlcWto6/view?usp=sharing)
